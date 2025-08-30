@@ -24,7 +24,9 @@ I have been a Geographic Information System and Remote Sensing system Technologi
 src="https://img.shields.io/github/followers/AlvinMN2024?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/AlvinMN2022" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/AlvinMN2022?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
+<a href="https://www.youtube.com/@ALVINNATIVIDAD-fw8lg?sub_confirmation=1">
 <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCtisGsEXg63LETVH0GG2Icw?style=for-the-badge&logo=youtubekids&logoColor=red&logoSize=youtubekids">
+</a>
 
 ### Badges
 
