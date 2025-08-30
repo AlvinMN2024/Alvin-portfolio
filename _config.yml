@@ -1,0 +1,6 @@
+# If you used the Theme Picker and it shows a named theme like "Cayman", use remote_theme:
+title: "Alvin Natividad – Portfolio"
+description: "Digital Cartographer · GIS & Remote Sensing · QGIS/PyQt"
+remote_theme: pages-themes/cayman@v0.2.0   # change to your actual theme if different
+plugins:
+  - jekyll-remote-theme
