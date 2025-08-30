@@ -29,8 +29,8 @@ src="https://img.shields.io/twitter/follow/AlvinMN2022?logo=twitter&style=for-th
 </a>
 
 ### 📹 Latest youtube videos
-<a href="" >
-<img src=""/>
+<a href="https://www.youtube.com/channel/ALVINNATIVIDAD-fw8lg">
+  <img src="IMAGE_URL" alt="Image description" />
 </a>
 
 ### Badges
